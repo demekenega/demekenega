@@ -1,4 +1,13 @@
+<h1 align="center">Hi 👋, I'm Nega</h1>
+<h3 align="center">A passionate Computer science student from Berea, Kentucky</h3>
 
+- 🔭 I’m currently working on [Opensource](https://github.com/pearcej/opensource)
+
+- 🌱 I’m currently learning **React, node.js and TypeScript**
+
+- 📫 How to reach me **demeken@berea.edu**
+
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/in/nega-demeke-160b1a253/overlay/1635528195569/single-media-viewer/?profileId=ACoAAD6iyVgBnVW9E2iDG5tiBJfE74f26OnUfeU)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nega-demeke-160b1a253/) 
 
