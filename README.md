@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nega</h1>
 <h3 align="center">A passionate Computer science student from Berea, Kentucky</h3>
 
-- 🔭 I’m currently working on [Opensource](https://github.com/pearcej/opensource)
-
 - 🌱 I’m currently learning **React, node.js and TypeScript**
 
 - 📫 How to reach me **demeken@berea.edu**
