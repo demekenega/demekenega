@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate Computer science student from Berea, Kentucky</h3>
 
-- 🌱 I’m currently learning **React, node.js and TypeScript**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **demeken@berea.edu**
 
 
-I'm currently working on Jember<br>I'm currently learning React native 
+- 💼 I'm currently working on **Jember**
 
 
 ## 🌐 Socials:
